@@ -12,7 +12,7 @@ Recreate the main section of expedia with the navbar, the icons and a search bar
 
 ### Section finished and it is:
 - responsive
-- I have not used framework for this small section, just a CDN of Bootstrap and flex-box;
+- I have not used framework for this small section, just a CDN of Bootstrap, media query and flex-box;
 - I use icons from Fontawesome https://fontawesome.com;
 - I use Inter font https://rsms.me/inter/;
 - I use an image from Unsplash https://unsplash.com;

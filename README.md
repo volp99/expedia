@@ -1,3 +1,4 @@
+![task](https://user-images.githubusercontent.com/56846676/114323470-a6d4ef00-9b25-11eb-90ca-6fee889b5581.png)
 # Expedia Demo
 Example of the main section of Expedia (navbar, icons and search bar.)
 ## Vision

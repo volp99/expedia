@@ -182,6 +182,7 @@ body{
     }
     #btn-primary{
         width:72% !important;
+        margin-top:0px !important;
     }
 }
 /*      Box with inside the 3 input + 1 on mobile   */

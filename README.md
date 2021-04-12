@@ -21,5 +21,5 @@ Recreate the main section of expedia with the navbar, the icons and a search bar
     - Shot by `jcob nasyr` https://unsplash.com/photos/ppMxyOhPtd8 
 - I did a hamburger menu on mobile
 
-## Deadline by April 16th
+
 

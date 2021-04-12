@@ -153,14 +153,11 @@ body{
 }
 /*      Input, checkbox and btn on mobile     */
 @media screen and (max-width: 1200px) {
-    .line{
-        display: none;
+    .line,.info{
+      display: none;
     }
     .items{
         margin:5px;
-    }
-    .info{
-        display: none;
     }
     .search-bar{
         margin-top:40px;
